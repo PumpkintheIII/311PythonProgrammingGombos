@@ -8,3 +8,5 @@ first_python_version1
 #Steps 1-3 in PLTW:
 #runs the print command, prints the string to the console
 print("I am coding in Python!")
+exec(open("step8.py").read())
+#runs the step8.py file once main.py has completed

@@ -5,10 +5,10 @@ def text_prompt():
   #intializes the name variable to the user input
   print("Hello " + name)
   #prints "Hello" and the variable name in the console
-  
+
+
 text_prompt()
 #calls the text_prompt function
-
 """
 function: def text_prompt():
 function call: text_prompt()
